@@ -1,0 +1,84 @@
+@media only screen and (max-width:1199px) {}
+
+
+@media only screen and (max-width:991px) {
+
+    .menubar > ul > li > a {
+        padding: 5px !important;
+    }
+
+    .help-col {
+        width: 33.33%;
+    }
+    .service-box h4 {
+    font-size: 24px;
+    }
+
+
+}
+
+@media only screen and (max-width:767px) {
+
+    .logo {
+        display: inline-block;
+    }
+
+    .sub-btn a span {
+        padding: 0 6px;
+    }
+
+    .sub-menu > a {
+        font-size: 14px;
+    }
+    
+    .banner-section h1 {
+    font-size: 50px;
+        line-height: 65px;
+    }
+    .banner-section p {
+    font-size: 22px;
+    line-height: 30px;
+    }
+    .service-box h4 {
+    font-size: 23px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:575px) {
+    body {
+        font-size: 14px;
+    }
+
+    .mobileAdd {
+        left: 0 !important;
+        width: 100%;
+    }
+
+    header .fa-bars {
+        font-size: 18px;
+    }
+    .logo a img {
+    width: 100px;
+    }
+    .banner-section h1 {
+    font-size: 45px;
+    line-height: 55px;
+    }
+    .banner-section p {
+    font-size: 18px;
+    line-height: 25px;
+    }
+    .banner3-content h2 {
+    font-size: 25px;
+    }
+    .banner3-content p {
+    font-size: 16px;
+    }
+
+
+
+
+}
